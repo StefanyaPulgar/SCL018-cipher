@@ -1,8 +1,8 @@
-##Cifrado César
+## Cifrado César
 
 El Cifrado César fue inventado por el emperador Julio César. Consiste en la entrega de mensajes codificados a partir del desplazamiento de una cantidad determinada de carácteres por cada una de las letras que contiene el mensaje.
 
-##SafePassW :lock:
+## SafePassW :lock:
 La aplicacion web se llama SafePassW, pensada para que guardes tus contraseñas seguras. 
 En la actualidad muchas personas de diversas edades guardan sus diferentes contraseñas en un block de notas o similar, esto genera riesgos en caso de que se genere algun evento adverso como el extravio el celular, por lo que SafePassW esta diseñado pensado en esas personas, para que puedan guardar sus contraseñas encriptadas y no corran riesgos de filtracion, que utilicen estas contraseña de mala manera o simplemente que le ocurre algo a su celular.  
 Al ingresar a la pagina debe ingresar la contraseña que desea cifrar, debe elegir un numero de desplazamiento y dar click en cifrar, como resultado le entregara la contraseña cifrada, la cual puede hacer click en el boton copiar y pegarla donde desee.
