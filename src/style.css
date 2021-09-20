@@ -135,10 +135,18 @@ body {
   outline: none; /*saca linea del input*/
 }
 
-.cifrador, .cifrador1 {
+.cifrador {
   width: 400px;
   margin: 40px; 
   margin-top: 50px;
+  border-radius: 4px;
+  content: center;
+}
+
+.cifrador1 {
+  width: 400px;
+  margin: 40px; 
+  margin-top: 20px;
   border-radius: 4px;
   content: center;
 }
